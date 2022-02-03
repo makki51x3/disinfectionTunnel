@@ -1,1 +1,2 @@
 # disinfectionTunnel
+The main idea of this project is to make a tunnel that can properly and safely sanitize people and objects passing through it hence ensuring a safe and sterile environment leading to a significantly less spread of COVID-19. This disinfection and sanitation tunnel sanitize people fully from head to toe in a time span of just 15 seconds from any possible bacteria or virus including COVID-19. The sanitizing agent used is effective and completely harmless.
